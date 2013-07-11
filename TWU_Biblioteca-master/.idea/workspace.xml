@@ -11,7 +11,7 @@
     <file path="/fragment.java" changelist="fa4039b8-a01a-4b87-b8b0-e3aec2a5f5b1" time="1373271936489" ignored="false" />
     <file path="/BibliotecaTest.java" changelist="fa4039b8-a01a-4b87-b8b0-e3aec2a5f5b1" time="1373543016897" ignored="false" />
     <file path="/Biblioteca.java" changelist="fa4039b8-a01a-4b87-b8b0-e3aec2a5f5b1" time="1373543167070" ignored="false" />
-    <file path="$USER_HOME$/IdeaProjects/App/.idea/workspace.xml" changelist="fa4039b8-a01a-4b87-b8b0-e3aec2a5f5b1" time="1373542960822" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/App/.idea/workspace.xml" changelist="fa4039b8-a01a-4b87-b8b0-e3aec2a5f5b1" time="1373553122349" ignored="false" />
     <file path="/Books.java" changelist="fa4039b8-a01a-4b87-b8b0-e3aec2a5f5b1" time="1373461234510" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,19 +73,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Biblioteca.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Biblioteca.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/twu/biblioteca/Biblioteca.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="54" selection-start="2287" selection-end="2287" vertical-scroll-proportion="0.8224852">
+            <state line="58" column="4" selection-start="1813" selection-end="1813" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BibliotecaTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="BibliotecaTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/com/twu/biblioteca/BibliotecaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="22" selection-start="2951" selection-end="2989" vertical-scroll-proportion="0.0">
+            <state line="100" column="22" selection-start="2951" selection-end="2989" vertical-scroll-proportion="2.1982248">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -483,7 +483,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18298654" sideWeight="0.7787611" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22123894" sideWeight="0.7582619" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22123894" sideWeight="0.7582619" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -611,19 +611,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/twu/biblioteca/BibliotecaTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/twu/biblioteca/Biblioteca.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="22" selection-start="2951" selection-end="2989" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="58" column="4" selection-start="1813" selection-end="1813" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/twu/biblioteca/Biblioteca.java">
+    <entry file="file://$PROJECT_DIR$/test/com/twu/biblioteca/BibliotecaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="54" selection-start="2287" selection-end="2287" vertical-scroll-proportion="0.8224852">
-          <folding />
+        <state line="100" column="22" selection-start="2951" selection-end="2989" vertical-scroll-proportion="2.1982248">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
